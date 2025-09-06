@@ -3,6 +3,6 @@ This my first repository
 <br>
 Author: Kemmy Oluleye 
 <br>
-this is the version 2 of my app
+This is the version 2 of my app
 <br>
 This is a minor update in button
