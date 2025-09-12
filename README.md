@@ -6,3 +6,5 @@ Author: Kemmy Oluleye
 This is the version 2 of my app
 <br>
 This is a minor update in button
+<br> 
+Follow up Session - Day 2
